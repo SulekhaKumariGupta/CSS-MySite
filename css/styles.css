@@ -8,7 +8,19 @@ text-align: center;
 {
   background-color:#fde2e2;
 }
+.middle-container
+{
 
+}
+.work-container
+{
+  background-color:#fde2e2;
+}
+.bottom-container
+{
+  font-family: 'Varela Round', sans-serif;
+  color:#010a43;
+}
 
 h1{
   font-family: 'Carter One', cursive;
@@ -23,9 +35,9 @@ h3
 
 hr
 {
-  height: 5%;
+  height: 5px;
   margin:auto;
-  border: 4px solid #ff9d9d;
+  border: 4px;
   border-bottom:none;
   border-left: none;
   border-right: none;
