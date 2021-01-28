@@ -1,23 +1,28 @@
 body
 {
-  background-color:#ffc2c2;
+
 text-align: center;
 }
 
 .top-container
 {
   background-color:#fde2e2;
+    margin: 10px auto;
 }
 .middle-container
 {
-
+    background-color :#ffc2c2;
+    margin: 10px auto;
 }
 .work-container
 {
+    margin: 10px auto;
   background-color:#fde2e2;
 }
 .bottom-container
 {
+    margin: 10px auto;
+  background-color:#ffc2c2;
   font-family: 'Varela Round', sans-serif;
   color:#010a43;
 }
@@ -26,6 +31,7 @@ h1{
   font-family: 'Carter One', cursive;
   font-size: 50px;
   color:#010a43;
+
 }
 h3
 {
@@ -35,13 +41,14 @@ h3
 
 hr
 {
-  height: 5px;
-  margin:auto;
-  border: 4px;
+  color:#010a43;
+  height: 2px;
+  width: 5%;
+  margin: 10px auto;
+  border:#010a43 6px;;
   border-bottom:none;
-  border-left: none;
-  border-right: none;
 }
+
 ul{
   list-style:none;
 }
