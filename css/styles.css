@@ -7,22 +7,27 @@ text-align: center;
 .top-container
 {
   background-color:#fde2e2;
+
     margin: 10px auto;
+    padding:20px;
 }
 .middle-container
 {
     background-color :#ffc2c2;
     margin: 10px auto;
+    padding:20px;
 }
 .work-container
 {
     margin: 10px auto;
     padding: 20px;
   background-color:#fde2e2;
+
 }
 .bottom-container
 {
-    margin: 10px auto;
+  margin: 20px auto;
+  padding:20px;
   background-color:#ffc2c2;
   font-family: 'Varela Round', sans-serif;
   color:#010a43;
@@ -37,17 +42,14 @@ h1{
 h3
 {
   font-family: 'Quantico', sans-serif;
-  color: #ff9d9d;
+  color: #ff2e63;
 }
 
 hr
 {
-  color:#010a43;
-  height: 2px;
+  height:10px;
+  display:none;
 
-  margin: 10px auto;
-  border:#010a43 6px;;
-  border-bottom:none;
 }
 
 ul{
@@ -70,4 +72,10 @@ ul{
 .btn:hover {
   background: #ff9d9d;
   text-decoration: none;
+}
+
+.cursive
+{
+  font-family: 'Yellowtail', cursive;
+  font-size: 30px;
 }
